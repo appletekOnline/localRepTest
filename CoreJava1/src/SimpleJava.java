@@ -7,6 +7,8 @@ public class SimpleJava {
 		
 		System.out.println("Welcome to Java Test Direct push from main project");
 		
+		System.out.println("Welcome to Java Test Direct push from main project1");
+		
 		
 
 	}
